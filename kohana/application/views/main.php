@@ -16,6 +16,6 @@
 </head>
 
 <body>
-<?php echo $content; ?>
+<?php echo $content, $comment; ?>
 </body>
 </html>
